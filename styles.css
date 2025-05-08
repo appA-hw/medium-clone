@@ -129,6 +129,7 @@ footer > ul {
 footer > ul > li {
     justify-content: space-evenly;
     margin: 0px 20px 0px 0px;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 878px) {
